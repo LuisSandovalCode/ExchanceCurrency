@@ -1,0 +1,17 @@
+{
+  "name": "exchancecurrency",
+  "displayName": "exchancecurrency",
+  "expo": {
+    "name": "exchancecurrency",
+    "slug": "exchancecurrency",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
